@@ -1,0 +1,31 @@
+[2022-08-03 13:56:34.175] [exthost] [info] Extension host with pid 19269 started
+[2022-08-03 13:56:34.187] [exthost] [info] Lock '/root/.vscode-server/data/User/workspaceStorage/2f730e5474098cb41606fd4e30ccf43b/vscode.lock': Lock acquired.
+[2022-08-03 13:56:35.060] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-03 13:56:35.083] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-03 13:56:35.101] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-03 13:56:35.551] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-03 13:56:36.506] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-03 13:56:38.888] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-03 13:56:38.948] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-03 13:56:38.969] [exthost] [info] Eager extensions activated
+[2022-08-03 13:56:40.134] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/root/cs144/sponge/apps/CMakeLists.txt' is in submodule 'sponge'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-03 13:56:40.134] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/root/cs144/sponge/apps/CMakeLists.txt' is in submodule 'sponge'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-03 13:56:40.134] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/root/cs144/sponge/apps/CMakeLists.txt' is in submodule 'sponge'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-03 13:56:41.246] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/root/cs144/sponge/apps/CMakeLists.txt' is in submodule 'sponge'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-03 13:56:41.246] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/root/cs144/sponge/apps/CMakeLists.txt' is in submodule 'sponge'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-03 13:56:41.246] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/root/cs144/sponge/apps/CMakeLists.txt' is in submodule 'sponge'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-03 13:56:51.985] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/root/cs144/sponge/apps' is in submodule 'sponge'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-03 13:56:51.985] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/root/cs144/sponge/apps' is in submodule 'sponge'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-03 13:56:51.985] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/root/cs144/sponge/apps' is in submodule 'sponge'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-03 13:56:51.985] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/root/cs144/sponge/apps' is in submodule 'sponge'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-03 13:56:51.985] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/root/cs144/sponge/apps' is in submodule 'sponge'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-03 13:56:51.985] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/root/cs144/sponge/apps' is in submodule 'sponge'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-03 13:56:51.985] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/root/cs144/sponge/apps' is in submodule 'sponge'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-03 13:56:51.985] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/root/cs144/sponge/apps' is in submodule 'sponge'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-03 13:56:51.985] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/root/cs144/sponge/apps' is in submodule 'sponge'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-03 13:56:51.985] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/root/cs144/sponge/apps' is in submodule 'sponge'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-03 13:56:51.985] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/root/cs144/sponge/apps' is in submodule 'sponge'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-03 13:56:51.985] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/root/cs144/sponge/apps' is in submodule 'sponge'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-08-03 14:36:08.037] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-03 14:36:08.038] [exthost] [info] Lock '/root/.vscode-server/data/User/workspaceStorage/2f730e5474098cb41606fd4e30ccf43b/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-08-03 14:36:08.048] [exthost] [info] Extension host with pid 19269 exiting with code 0

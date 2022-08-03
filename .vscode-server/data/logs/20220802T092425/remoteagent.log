@@ -1,0 +1,7 @@
+[2022-08-02 09:24:25.552] [remoteagent] [info] Extension host agent started.
+[2022-08-02 09:24:26.408] [remoteagent] [info] [127.0.0.1][93d5883c][ManagementConnection] New connection established.
+[2022-08-02 09:24:27.195] [remoteagent] [info] [127.0.0.1][9942fe28][ExtensionHostConnection] New connection established.
+[2022-08-02 09:24:27.211] [remoteagent] [info] [127.0.0.1][9942fe28][ExtensionHostConnection] <28437> Launched Extension Host Process.
+[2022-08-02 09:37:07.231] [remoteagent] [info] [127.0.0.1][9942fe28][ExtensionHostConnection] <28437> Extension Host Process exited with code: 0, signal: null.
+[2022-08-02 09:37:07.232] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-08-02 09:42:07.233] [remoteagent] [info] Last EH closed, shutting down
