@@ -1,0 +1,16 @@
+{
+    "git.confirmSync": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 5,
+    "workbench.editor.enablePreview": false,
+    "editor.fontSize": 16,
+    "editor.find.loop": false,
+    "workbench.colorTheme": "Default Light+",
+    "remote.SSH.connectTimeout": 60,
+    "code-runner.runInTerminal": true,
+    "workbench.startupEditor": "none"
+}
